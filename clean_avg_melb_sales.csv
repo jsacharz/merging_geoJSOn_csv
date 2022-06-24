@@ -1,0 +1,239 @@
+,suburb,postcode,mean_price
+0,Abbotsford,3067,1181000
+1,Airport West,3042,967500
+2,Albanvale,3021,630000
+3,Albert Park,3206,5500000
+4,Altona,3018,986000
+5,Armadale,3143,1601250
+6,Ascot Vale,3032,1450250
+7,Ashburton,3147,1835000
+8,Ashwood,3147,
+9,Aspendale Gardens,3195,1100000
+10,Avondale Heights,3034,951250
+11,Balaclava,3183,
+12,Balwyn,3103,3140000
+13,Balwyn North,3104,2825000
+14,Bayswater,3153,823000
+15,Bayswater North,3153,987000
+16,Beaumaris,3193,1696666.667
+17,Bellfield,3081,925000
+18,Belmont,3216,730000
+19,Bentleigh,3204,1675500
+20,Bentleigh East,3165,1662600
+21,Berwick,3806,2000000
+22,Black Rock,3193,2151666.667
+23,Blackburn,3130,1406666.667
+24,Blairgowrie,3942,
+25,Bonbeach,3196,1438333.333
+26,Boronia,3155,776250
+27,Box Hill,3128,
+28,Box Hill North,3129,1107500
+29,Braybrook,3019,630000
+30,Brighton,3186,1970000
+31,Brighton East,3187,1640000
+32,Broadmeadows,3047,632500
+33,Brunswick,3056,988984
+34,Brunswick East,3057,1080000
+35,Bulleen,3105,1147500
+36,Bundoora,3083,944214.2857
+37,Burwood,3125,989000
+38,Burwood East,3151,1190500
+39,Cairnlea,3023,1360000
+40,Camberwell,3124,2725000
+41,Camperdown,3260,
+42,Canterbury,3126,
+43,Carlton,3053,1512000
+44,Carlton North,3054,2080000
+45,Carnegie,3163,1049000
+46,Caroline Springs,3023,995900
+47,Caulfield North,3161,675000
+48,Caulfield South,3162,
+49,Chadstone,3148,
+50,Chelsea,3196,962500
+51,Chelsea Heights,3196,1200000
+52,Cheltenham,3192,1036000
+53,Clarinda,3169,1185000
+54,Clayton,3168,1046666.667
+55,Clayton South,3169,819000
+56,Clifton Hill,3068,1743000
+57,Coburg,3058,1220600
+58,Coburg North,3058,782500
+59,Coldstream,3770,825000
+60,Collingwood,3066,1430000
+61,Craigieburn,3064,648791.6667
+62,Cranbourne,3977,1325000
+63,Cremorne,3121,1460000
+64,Croydon,3136,990000
+65,Croydon North,3136,585000
+66,Croydon South,3136,
+67,Dandenong North,3175,
+68,Derrimut,3026,880000
+69,Diamond Creek,3089,887000
+70,Dingley Village,3172,1072500
+71,Docklands,3008,1150000
+72,Doncaster,3108,1082500
+73,Doncaster East,3109,1296444.444
+74,Donvale,3111,1397500
+75,Doreen,3754,680500
+76,Dromana,3936,1970000
+77,Drouin,3818,
+78,East Melbourne,3002,1373333.333
+79,Elsternwick,3185,1540000
+80,Eltham,3095,890000
+81,Eltham North,3095,1175000
+82,Elwood,3184,817000
+83,Endeavour Hills,3802,980250
+84,Epping,3076,661700
+85,Essendon,3040,1101583.333
+86,Essendon North,3041,1475000
+87,Essendon West,3040,1660000
+88,Fairfield,3078,1232666.667
+89,Fawkner,3060,722500
+90,Ferntree Gully,3156,905416.6667
+91,Fitzroy,3065,1254333.333
+92,Fitzroy North,3068,2159333.333
+93,Flemington,3031,1020000
+94,Footscray,3011,670000
+95,Forest Hill,3131,1693000
+96,Frankston,3199,692928.5714
+97,Frankston North,3200,652000
+98,Frankston South,3199,1215000
+99,Gladstone Park,3043,740000
+100,Glen Huntly,3163,
+101,Glen Iris,3146,2450000
+102,Glen Waverley,3150,1352333.333
+103,Glenroy,3046,808972
+104,Gowanbrae,3043,1380000
+105,Greensborough,3088,649333.3333
+106,Greenvale,3059,1040000
+107,Grovedale,3216,
+108,Hadfield,3046,950000
+109,Hallam,3803,
+110,Hamlyn Heights,3215,710000
+111,Hampton,3188,
+112,Hampton East,3188,650000
+113,Hawthorn,3122,1658333.333
+114,Hawthorn East,3123,2112000
+115,Heidelberg,3084,620000
+116,Heidelberg Heights,3081,1010000
+117,Highett,3190,1672500
+118,Highton,3216,1372500
+119,Hillside,3037,860000
+120,Hoppers Crossing,3029,725000
+121,Hughesdale,3166,846000
+122,Invermay Park,3350,710000
+123,Ivanhoe,3079,1380000
+124,Keilor Downs,3038,850000
+125,Keilor East,3033,1104666.667
+126,Kensington,3031,1446500
+127,Kew,3101,3425000
+128,Kew East,3102,
+129,Keysborough,3173,678000
+130,Kilsyth,3137,875000
+131,Kings Park,3021,600000
+132,Kingsbury,3083,757000
+133,Knoxfield,3180,
+134,Lalor,3075,636250
+135,Lower Plenty,3093,750000
+136,Macleod,3085,922000
+137,Maidstone,3012,772500
+138,Malvern,3144,
+139,Malvern East,3145,821000
+140,Maribyrnong,3032,
+141,McKinnon,3204,2328000
+142,Meadow Heights,3048,505000
+143,Melbourne,3004,835000
+144,Melton,3337,425000
+145,Melton West,3337,515000
+146,Mentone,3194,1230000
+147,Mernda,3754,785000
+148,Mickleham,3064,1300000
+149,Mill Park,3082,658166.6667
+150,Mitcham,3132,1520000
+151,Mont Albert,3127,
+152,Mont Albert North,3129,1080000
+153,Montrose,3765,1320000
+154,Moonee Ponds,3039,790000
+155,Moorabbin,3189,1321000
+156,Mooroolbark,3138,848000
+157,Mordialloc,3195,2850000
+158,Mount Eliza,3930,2311250
+159,Mount Waverley,3149,1381500
+160,Mulgrave,3170,1218500
+161,Murrumbeena,3163,1175000
+162,Nagambie,3608,550000
+163,Narre Warren,3805,
+164,Newport,3015,879000
+165,Niddrie,3042,1875000
+166,North Melbourne,3051,972000
+167,Northcote,3070,420000
+168,Notting Hill,3168,
+169,Nunawading,3131,988500
+170,Oak Park,3046,1049666.667
+171,Oakleigh,3166,1510000
+172,Oakleigh East,3166,1025000
+173,Oakleigh South,3167,1225000
+174,Ormond,3204,1358000
+175,Parkdale,3195,
+176,Pascoe Vale,3044,619500
+177,Pascoe Vale South,3044,1240000
+178,Point Cook,3030,954500
+179,Port Melbourne,3207,
+180,Prahran,3181,1992500
+181,Preston,3072,1072333.333
+182,Reservoir,3073,762555.5556
+183,Richmond,3121,1283500
+184,Ringwood,3134,1069166.667
+185,Ringwood East,3135,826250
+186,Ringwood North,3134,960000
+187,Rosanna,3084,1100000
+188,Rosebud,3939,660000
+189,Rowville,3178,1121000
+190,Sandringham,3191,
+191,Seddon,3011,
+192,South Kingsville,3015,
+193,South Melbourne,3205,
+194,South Morang,3752,690833.3333
+195,South Yarra,3141,1011250
+196,Southbank,3006,
+197,Spotswood,3015,980000
+198,St Albans,3021,655400
+199,St Kilda,3182,517000
+200,St Kilda East,3183,2115000
+201,St Kilda West,3182,725000
+202,Strathmore,3041,
+203,Sunbury,3429,556000
+204,Sunshine,3020,937500
+205,Sunshine North,3020,730000
+206,Sunshine West,3020,715000
+207,Surrey Hills,3127,2110000
+208,Taylors Hill,3037,880000
+209,Taylors Lakes,3038,1018200
+210,Templestowe,3106,1483500
+211,Templestowe Lower,3107,
+212,Thomastown,3074,619833.3333
+213,Thornbury,3067.5,1363333.333
+214,Toorak,3142,1412000
+215,Truganina,3029,812500
+216,Vermont,3133,740000
+217,Vermont South,3133,1210000
+218,Viewbank,3084,1255000
+219,Warragul,3820,
+220,Warrandyte,3113,
+221,Warrnambool,3280,658500
+222,Watsonia,3087,880000
+223,Watsonia North,3087,952500
+224,Werribee,3030,518750
+225,West Footscray,3012,920107.1429
+226,West Melbourne,3003,2610000
+227,Westmeadows,3049,630000
+228,Wheelers Hill,3150,1145500
+229,Whittington,3219,370000
+230,Williams Landing,3027,
+231,Williamstown,3016,
+232,Windsor,3181,687000
+233,Wodonga,3690,675000
+234,Wollert,3750,727000
+235,Yackandandah,3749,525000
+236,Yallambie,3085,900000
+237,Yarraville,3013,
